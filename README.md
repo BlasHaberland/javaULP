@@ -7,7 +7,7 @@
   * - [x] Punto C 
   * - [x] Punto D 
 - [x] **Ejercicio 02**
-- [ ] **Ejercicio 03**  
+- [x] **Ejercicio 03**  
 - [ ] **Ejercicio 04**  
 - [ ] **Ejercicio 05** 
 - [ ] **Ejercicio 06**  
