@@ -53,4 +53,20 @@ public class Arreglo {
 
     return contador;
   }
+
+  public static int cuentaCaracter(String palabra, char letra) {
+    int contador = 0;
+
+    String normalString = palabra.toLowerCase();
+    char normalChar = Character.toLowerCase(letra);
+    char[] arreglo = normalString.toCharArray();
+
+    for (char caracter : arreglo) {
+      if (caracter == normalChar) {
+        contador++;
+      }
+    }
+
+    return contador;
+  }
 }
