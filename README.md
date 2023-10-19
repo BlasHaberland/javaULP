@@ -9,6 +9,6 @@
 - [x] **Ejercicio 02**
 - [x] **Ejercicio 03**  
 - [x] **Ejercicio 04**  
-- [ ] **Ejercicio 05** 
-- [ ] **Ejercicio 06**  
+- [x] **Ejercicio 05** 
+- [x] **Ejercicio 06**  
 - [ ] **Ejercicio 07**  
