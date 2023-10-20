@@ -11,4 +11,4 @@
 - [x] **Ejercicio 04**  
 - [x] **Ejercicio 05** 
 - [x] **Ejercicio 06**  
-- [ ] **Ejercicio 07**  
+- [x] **Ejercicio 07**  
