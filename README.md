@@ -12,3 +12,6 @@
 - [x] **Ejercicio 05** 
 - [x] **Ejercicio 06**  
 - [x] **Ejercicio 07**  
+### Guia 5.1
+- [x] **Ejercicio 01**
+- [x] **Ejercicio 02**  
