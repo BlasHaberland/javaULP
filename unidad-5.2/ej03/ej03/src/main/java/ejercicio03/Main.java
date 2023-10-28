@@ -22,7 +22,7 @@ public class Main {
 
         //ArrayList<Integer> busquedaNumeroGonzas = myDirectory.searchPhone("Gonza");
 
-        //System.out.println(myDirectory.searchPhone("Gonza"));
+        System.out.println(myDirectory.searchPhone("Gonza"));
         //System.out.println(myDirectory.searchByCity("Santa Rosa"));
     }
 }
