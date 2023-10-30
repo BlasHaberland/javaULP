@@ -24,6 +24,14 @@ public class Directorio {
         return this.directory.get(phoneNumber);
     }
 
+    /**
+     * Itera directory buscando clientes por apellido,
+     * y retorna una ArrayList con los números de teléfono
+     * de dichos clientes.
+     *
+     * @param  lastName el apellido a buscar
+     * @return          ArrayList con números de teléfono
+     */
     public ArrayList<Integer> searchPhone(String lastName){
         ArrayList<Integer> list = new ArrayList<>();
 
