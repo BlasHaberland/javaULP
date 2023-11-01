@@ -15,3 +15,10 @@
 ### Guia 5.1
 - [x] **Ejercicio 01**
 - [x] **Ejercicio 02**  
+- [x] **Ejercicio 03**
+- [x] **Ejercicio 04**
+- [x] **Ejercicio 05**
+- [x] **Ejercicio 06**
+### Guia 5.1 Extras
+- [x] **Ejercicio 01**
+- [x] **Ejercicio 02** 
